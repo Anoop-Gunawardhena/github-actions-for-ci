@@ -1,1 +1,3 @@
 name: Josh and Anoop's slightly average workflow
+on: pull_request_review
+
